@@ -8,7 +8,7 @@ The idea here is to create POJOs that resemble the actual plugin objects and rel
 
 Important bits of code:
 
-- [The POJOs]()
-- [The TypeScript Mapping]()
-- [A Sample Test]()
+- [The POJOs](https://github.com/kensodemann/demo-cap-mocks/tree/main/__mocks__/%40capacitor)
+- [The TypeScript Mapping](https://github.com/kensodemann/demo-cap-mocks/blob/main/tsconfig.spec.json#L6-L8)
+- [A Sample Test](https://github.com/kensodemann/demo-cap-mocks/blob/main/src/app/app.component.spec.ts)
 
